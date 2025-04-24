@@ -1,4 +1,4 @@
- # Zokou-2.0 🚀
+ # Zokou-2.0 🚀 
 
 Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you!
 
